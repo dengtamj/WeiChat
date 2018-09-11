@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.226.56.210:28380/amaze/static/smartwork.ipa</string>
+					<string>http://47.92.136.178/download/kuwan-resigned-0503.ipa_1.1.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<string>com.yjdlsoft.hljmj</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.8.0(Build 1.0)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>smartwork.ipa</string>
+				<string>酷玩棋牌</string>
 			</dict>
 		</dict>
 	</array>
